@@ -1,4 +1,4 @@
-# WWhen do Convolutional Neural Networks Stop Learning?
+# When do Convolutional Neural Networks Stop Learning?
 #Paper Under Review
 
 The official PyTorch implementation of When do Convolutional Neural Networks Stop Learning? (ICLR 2022#Paper Under Review#).
