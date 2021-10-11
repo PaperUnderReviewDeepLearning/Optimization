@@ -15,7 +15,7 @@ For example, to train a ResNet on CIFAR10 and the data is saved in `./data/`, we
 `python3 main.py --dataset cifar10 --alg res --data ./data/`
 
 
-In terms of CBS modify the file name by following:
+To use CBS models please modify the file name by following:
 
 CNN+CBS:        models_CBS.py ->  models.py
 
