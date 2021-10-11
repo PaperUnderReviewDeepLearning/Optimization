@@ -2,7 +2,7 @@
 
 The official PyTorch implementation of  (ICLR 2022).
 
-For any questions regarding the codebase, please send a message at: samarth.sinha@mail.utoronto.ca
+
 
 ***USAGE:***
 Simply use the code by running:
