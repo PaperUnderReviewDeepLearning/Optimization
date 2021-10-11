@@ -16,8 +16,11 @@ For example, to train a ResNet on CIFAR10 and the data is saved in `./data/`, we
 
 
 In terms of CBS modify the file name by following:
+
 CNN+CBS:        models_CBS.py ->  models.py
+
 ResNet18+CBS:   resnet_CBS.py ->  resent.py
+
 VGG16+CBS:      Vgg_CBS.py    ->  Vgg.py
 
 
