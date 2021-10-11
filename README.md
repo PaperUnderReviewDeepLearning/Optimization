@@ -15,8 +15,4 @@ For example, to train a ResNet on CIFAR10 and the data is saved in `./data/`, we
 `python3 main.py --dataset cifar10 --alg res --data ./data/`
 
 
-For new expeiments it is important to tune the following hyperparameters:
-
-`--std --std_factor --epoch`
-
 
