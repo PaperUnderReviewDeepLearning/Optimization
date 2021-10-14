@@ -4,12 +4,19 @@
 The official PyTorch implementation of When do Convolutional Neural Networks Stop Learning? (ICLR 2022 #Paper Under Review#).
 
 Required Packages:
+
 python 3.6.3
+
 numpy 1.19.2
+
 pandas 1.1.5
+
 pytorch 1.3.1
+
 scipy 1.5.2
+
 seaborn 0.11.1
+
 termcolor 1.1.0
 
 ***USAGE:***
