@@ -19,6 +19,10 @@ seaborn 0.11.1
 
 termcolor 1.1.0
 
+torchvision
+
+scikit-learn
+
 ***USAGE:***
 Simply use the code by running:
 
