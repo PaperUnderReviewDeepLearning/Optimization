@@ -1,7 +1,7 @@
 # When do Convolutional Neural Networks Stop Learning?
 #Paper Under Review NIPS 2022
 
-The official PyTorch implementation of When do Convolutional Neural Networks Stop Learning? (KDD 2022 #Paper Under Review#).
+The official PyTorch implementation of When do Convolutional Neural Networks Stop Learning? (NIPS 2022 #Paper Under Review#).
 
 Required Packages:
 
