@@ -137,6 +137,8 @@ class CNNNormal(nn.Module):
     self.modelStatus = modelStatus
 
   def forward(self, x):
+    
+    
 
       x1 = self.conv1(x)
       x1 = self.kernel1(x1)
